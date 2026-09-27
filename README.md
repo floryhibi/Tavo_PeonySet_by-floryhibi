@@ -1,401 +1,69 @@
-# 🌺 PeonySet 18+ v2 --- English Edition
+# 🌸 PeonySet 18+ v2 — English Edition
 
-> A modular roleplay preset for Tavo focused on realism, character
-> autonomy, psychology, relationships and an immersive living world.
+> A modular roleplay preset for **TavoAi**: realism, character autonomy, psychology, relationships and an immersive living world.
+
+[![Download](https://img.shields.io/badge/Download-v2.0--en-ff69b4?style=for-the-badge)](https://github.com/floryhibi/Tavo_PeonySet_by-floryhibi/releases/tag/v2.0-en)
+![Downloads](https://img.shields.io/github/downloads/floryhibi/Tavo_PeonySet_by-floryhibi/total?color=ff69b4)
+![License](https://img.shields.io/badge/license-CC%20BY--NC%204.0-lightgrey)
 
 PeonySet is a roleplay preset created by **@floryhibi** for TavoAi.
 
-It started as a personal preset for my own roleplays and gradually grew
-into a modular system with world rules, autonomous NPCs, hidden
-psychology, relationship progression, interactive interface blocks and
-tools for making RP feel more alive.
+It started as a personal preset for my own roleplays and gradually grew into a modular system with world rules, character psychology and interactive UI.
 
-This is the **English Edition of PeonySet 18+ v2**, rewritten
-specifically for English-language roleplay.
+---
 
-------------------------------------------------------------------------
+## ✨ Interactive UI
 
-> \[!IMPORTANT\] **PEONYSET IS MODULAR**
->
-> You can enable or disable individual systems depending on the kind of
-> RP you want.
->
-> For the full interface experience, use the preset together with the
-> included Regex Pack.
+PeonySet renders living interfaces right inside the chat — dossiers, messengers, forums, status panels and more.
 
-## 🌸 WHAT IS PEONYSET?
+<p align="center">
+<img src="docs/screenshots/messenger.jpg" width="48%">
+<img src="docs/screenshots/forum.jpg" width="48%">
+</p>
+<p align="center">
+<img src="docs/screenshots/os_header.jpg" width="48%">
+<img src="docs/screenshots/dossier.jpg" width="48%">
+</p>
+<p align="center">
+<img src="docs/screenshots/glass_block.jpg" width="48%">
+<img src="docs/screenshots/glass_block_phone.jpg" width="48%">
+</p>
+<p align="center">
+<img src="docs/screenshots/soul.jpg" width="48%">
+<img src="docs/screenshots/plottwist.jpg" width="48%">
+</p>
 
-PeonySet is built around the idea that a roleplay world should not exist
-only to react to `{{user}}`.
+---
 
-NPCs have their own goals, emotions, relationships, memories and
-problems. Events can happen outside the current scene. Relationships
-develop over time. Everyday details matter.
+## 📦 What's inside
 
-The preset focuses on:
+- 📄 **Preset** — `(eng_preset) 🌸 PeonySet 18+ v2 by @floryhibi.json`
+- ⚙️ **Regex pack** — `(eng_regex) 🌸 PeonySet 18+ v2 by @floryhibi.zip` (interactive UI, status panels, media blocks)
+- 📖 **Interactive guide** — `PeonySet18+_v2_InteractiveGuide.html` (open in any browser)
 
--   realistic world rules and continuity
--   independent NPCs with their own lives and goals
--   strict `{{user}}` autonomy
--   anti-echo and anti-repetition rules
--   anti-cliché writing
--   hidden character psychology
--   realistic relationship progression
--   slowburn and relationship dynamics
--   parallel scenes and off-screen events
--   self-driving plot hooks
--   realistic time, money, work and everyday life
--   interactive interface systems
--   customizable dialogue and response formatting
+## ⬇️ Install
 
-The goal is simple:
+1. Download both files from the [**Releases**](https://github.com/floryhibi/Tavo_PeonySet_by-floryhibi/releases/tag/v2.0-en) page (Assets).
+2. TavoAi → **Presets** → import the `.json` file.
+3. TavoAi → **Regex** → import **every** regex file from the `.zip` — they work as a set, the UI will break if some are missing.
+4. Open the interactive guide in your browser for setup tips and feature overview.
 
-> **The world should feel like it keeps moving even when `{{user}}` is
-> not looking.**
+## 🔗 Links
 
-------------------------------------------------------------------------
+- 💬 **TavoAi Discord** — find me in the presets channels: https://discord.com/channels/1356606095207960616/1551602612997070918
+- 🏠 **Tavo Hub creator page** — https://hub.tavoai.dev/creators/HQ4G1
+- 🤗 **Chub.ai** — https://chub.ai (search: floryhibi)
 
-## 🧠 CORE SYSTEMS
+## ⚠️ Notes
 
-### 🌐 Language
+- 18+ content preset. Use responsibly.
+- Regexes are tuned for **On Display** timing and character messages — import with default settings.
+- Tested on TavoAi v0.91+.
 
-The English Edition is designed for English-language RP.
+## 📜 License
 
-Narration, dialogue, thoughts and visible interface text are written in
-English, while proper names remain unchanged.
+[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) — share and adapt freely with credit, no commercial use.
 
-### 🤍 World Rules & Realism
+---
 
-Characters and the world follow their own internal logic.
-
-The system accounts for things such as:
-
--   time and continuity
--   money and work
--   food and physical needs
--   health and exhaustion
--   social friction
--   realistic bureaucracy and everyday limitations
--   character knowledge
--   established relationships
--   consequences of previous events
-
-Characters do not automatically know things they could not reasonably
-know.
-
-### 🐾 User Autonomy
-
-`{{user}}` remains fully under the user's control.
-
-The AI should never:
-
--   speak for `{{user}}`
--   decide what `{{user}}` thinks
--   decide what `{{user}}` feels
--   perform actions for `{{user}}`
--   repeat or paraphrase the user's actions unnecessarily
-
-NPCs can disagree, refuse, misunderstand, leave, lie, make mistakes and
-pursue their own interests.
-
-### 🧠 Hidden Psychology
-
-Characters have hidden emotional states that influence their behavior.
-
-The system can track things such as:
-
--   mood
--   stress
--   anxiety
--   irritation
--   exhaustion
--   trust
--   attachment
--   jealousy
--   safety
--   loneliness
--   suppressed emotions
-
-These states are expressed through behavior, dialogue and reactions
-rather than visible numerical statistics.
-
-### 🌙 Relationship Progression
-
-PeonySet includes a dedicated Slowburn system with sequential
-relationship stages.
-
-Relationships are intended to develop through actual interaction rather
-than instantly jumping from first contact to deep attachment.
-
-The system supports:
-
--   familiarity
--   trust
--   attraction
--   emotional attachment
--   conflict
--   changing boundaries
--   intimacy
--   confession
--   relationship development
-
-### 🎞 Parallel Scenes
-
-Multiple storylines can exist at the same time.
-
-NPCs can continue acting outside the user's immediate scene while
-respecting knowledge limits.
-
-This allows for:
-
--   off-screen events
--   parallel character interactions
--   independent NPC decisions
--   simultaneous plotlines
--   consequences that develop without direct user involvement
-
-### ✒️ Prose & Dialogue
-
-PeonySet contains dedicated writing rules for:
-
--   natural prose
--   varied sentence structure
--   anti-cliché writing
--   realistic dialogue
--   dialogue formatting
--   interaction pacing
--   response structure
-
-The active default response target is **500--700 words**.
-
-------------------------------------------------------------------------
-
-# 🫧 PEONYSET REGEX PACK
-
-PeonySet comes with a separate Regex Pack designed to turn its interface
-tags into formatted visual elements inside Tavo.
-
-> **Preset = how the world behaves.**\
-> **Regex = how the world is presented.**
-
-### Included systems
-
--   📟 OS Header
--   🫧 Generative Blocks
--   📸 Gallery
--   🎞 Film
--   🎬 Scene
--   📔 Diary
--   🔍 Search
--   🧨 Kinks
--   💬 Messenger
--   💭 Inner Thoughts
--   🎟 Plot Twist
--   🗞 Forum
--   👥 NPC Dossier
--   📅 Calendar
--   🔔 Notifications
--   💊 Medication
--   📞 Calls
--   🛍 Shopping
--   🗺 Map
--   🏦 Bank
--   📦 Delivery
--   📱 Phone
--   🌦 Weather
--   🧹 Social Media Logs
--   🧠 Thinking
--   🧹 Cleanup / utility rules
-
-The Regex Pack is separate from the preset and can be configured
-according to your setup.
-
-------------------------------------------------------------------------
-
-# 📱 INTERACTIVE WORLD
-
-PeonySet can generate different interface-style blocks during RP,
-including:
-
-``` text
-[OS]
-[PHONE]
-[MESSENGER]
-[CALL]
-[NOTIFICATION]
-[BANK]
-[CALENDAR]
-[DELIVERY]
-[MAP]
-[SEARCH]
-[WEATHER]
-[MEDICATION]
-[SHOPPING]
-[FORUM]
-[DIARY]
-[TIMER]
-[SNAP]
-[FILM]
-[KINKS]
-[NPC]
-[PLOT TWIST]
-[THOUGHTS]
-```
-
-These blocks are intended to make things such as messages, calls,
-searches, schedules, social media, documents and other everyday
-interactions feel like part of the world rather than plain text.
-
-------------------------------------------------------------------------
-
-# 🎀 OPTIONAL SYSTEMS
-
-PeonySet contains additional modules that can be enabled or disabled
-depending on the roleplay.
-
-Examples include:
-
--   Slowburn
--   Fastburn
--   Plot Twist
--   NPC Bank
--   Inner Thoughts
--   Kinks / preferences
--   Gallery & Film
--   Messenger
--   Glass UI blocks
--   Thinking / planning
--   Technology and everyday-life systems
-
-You do not need to use every module.
-
-------------------------------------------------------------------------
-
-# ⚙️ INSTALLATION
-
-### 1. Import the preset
-
-Import:
-
-`🌺 PeonySet 18+ v2 by @floryhibi.json`
-
-into Tavo.
-
-### 2. Enable PeonySet
-
-Open your chat's advanced settings and enable the preset.
-
-### 3. Import the Regex Pack
-
-Import the Regex files from the accompanying ZIP archive.
-
-### 4. Enable the Regex rules
-
-Enable the systems you want to use.
-
-For the complete PeonySet interface, the corresponding Regex rules need
-to be enabled together with the preset.
-
-> \[!TIP\] If a visual block does not appear correctly, first check
-> whether its corresponding Regex rule is enabled.
-
-------------------------------------------------------------------------
-
-# 🔞 18+ CONTENT
-
-PeonySet 18+ is intended for adult users and adult roleplay.
-
-The preset supports mature themes and darker fictional scenarios between
-adult characters.
-
-Its systems also emphasize character autonomy, boundaries, consequences
-and relationship development.
-
-------------------------------------------------------------------------
-
-# 📂 FILES
-
-### 🌺 PeonySet 18+ v2 --- English Preset
-
-The main Tavo preset containing the world, writing, character,
-relationship and interface instructions.
-
-### 🫧 PeonySet 18+ v2 --- Regex Pack
-
-The accompanying collection of Regex rules used to format and display
-PeonySet interface systems.
-
-------------------------------------------------------------------------
-
-# 🌷 A LITTLE NOTE FROM ME
-
-PeonySet was my first big preset project.
-
-I originally made it for myself because I wanted my roleplays to have
-more continuity, more independent characters and more little details
-happening around the main story.
-
-Over time, it became much bigger than the original idea.
-
-The English version was rewritten specifically for English RP rather
-than simply translated line by line.
-
-I want to keep improving PeonySet, so bugs, strange behavior and
-constructive suggestions are always welcome. ♡
-
-------------------------------------------------------------------------
-
-# 💌 SUPPORT & CONTACT
-
-🌸 **Website**\
-https://floryhibi.ru
-
-♡ **Telegram**\
-https://t.me/floryhibi
-
-✦ **Boosty / Support & Commissions**\
-https://boosty.to/floryhibi
-
-If you find a bug or something that could work better, feel free to open
-an issue or contact me.
-
-Constructive feedback is always welcome. ♡
-
-------------------------------------------------------------------------
-
-# ✦ CREDITS
-
-**Created by @floryhibi**
-
-PeonySet was developed as a personal roleplay project and expanded
-through experimentation, testing and community-inspired ideas.
-
-Some concepts and techniques were inspired by the wider AI roleplay
-community.
-
-Thank you to everyone whose work, presets and experiments helped me
-learn and build my own systems. 🌸
-
-------------------------------------------------------------------------
-
-# 📜 USAGE
-
-This project is provided for personal use.
-
-Please do not re-upload the files, redistribute them as your own work,
-or remove the original creator credit.
-
-If you create a modified or derivative version, please keep the original
-credit:
-
-**@floryhibi**
-
-Thank you for respecting the work. ♡
-
-------------------------------------------------------------------------
-
-## 🌺 PeonySet 18+ v2
-
-**Made by @floryhibi**
-
-*For roleplays that feel a little more alive.* ♡
+<p align="center">made with 🌸 by <b>@floryhibi</b></p>
