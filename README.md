@@ -50,9 +50,11 @@ PeonySet renders living interfaces right inside the chat — dossiers, messenger
 
 ## 🔗 Links
 
-- 💬 **TavoAi Discord** — find me in the presets channels: https://discord.com/channels/1356606095207960616/1551602612997070918
-- 🏠 **Tavo Hub creator page** — https://hub.tavoai.dev/creators/HQ4G1
-- 🤗 **Chub.ai** — https://chub.ai (search: floryhibi)
+- 🌸 **PeonySet preset** — https://github.com/floryhibi/Tavo_PeonySet_by-floryhibi
+- 🏠 **Tavo Hub** — https://hub.tavoai.dev/creators/HQ4G1
+- ☕ **Support me (Boosty)** — https://boosty.to/floryhibi
+- 🌐 **Website** — https://floryhibi.ru
+- 💬 **Discord** — https://discord.gg/rRNb9BB2
 
 ## ⚠️ Notes
 
